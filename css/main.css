@@ -1,0 +1,81 @@
+  a, a:visited {
+    text-decoration: none;
+    color: #26A65B;
+  }
+
+  html{
+    height:100%;
+    background-image: url("../img/wood2_vectorized.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  body{
+    height: 100%  ;
+  }
+
+  .button{
+    width: 100%;
+  /*margin-left: 15%;
+    display: block;*/
+  }
+
+  .button div{
+    width: 15%;
+    display: inline-block;
+  }
+
+  .button_1{
+    padding-left: 22%;
+  }
+  .genoLogo{
+    width:70%;
+  }
+
+  .genoLogo img{
+    max-width:70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+
+  .info{
+    text-align: center;
+    vertical-align: text-top;
+    color: #fff;
+    font-size: .9em;
+  }
+
+  .inline{
+    height: 425px;
+  }
+
+  .inline div{
+    display: inline-block;
+    /*height: 30% ;*/
+  }
+
+  .orderNow{
+    width: 20%;
+      vertical-align: top;
+  }
+
+  .orderNow a, .orderNow a:visited{
+    vertical-align: text-top;
+    font-size: .9em;
+  }
+
+  .orderNow a:hover, .orderNow a:focus{
+    opacity: .6;
+  }
+
+  .rollingpin{
+    width:100%;
+  }
+
+  .rollingpin img{
+    max-width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
